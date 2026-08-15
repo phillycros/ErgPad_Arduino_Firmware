@@ -1,5 +1,5 @@
 //ERGO PAD v1.0 Firmware
-// Test change for GitHub
+// Test change for GitHub - Test 2
 
 #include <ArduinoBLE.h>
 
